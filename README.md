@@ -1,2 +1,2 @@
-# adventjs-2022
-Advent JS Challenges 2022 Resolution
+# Advent JS 2020
+Resolution of Advent JS 2022 Challenges

@@ -1,0 +1,29 @@
+{
+  "name": "adventjs-2022",
+  "version": "1.0.0",
+  "description": "Resolution of Advent JS 2022 Challenges",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcvels/adventjs-2022.git"
+  },
+  "keywords": [
+    "JS",
+    "javascript",
+    "test",
+    "jest"
+  ],
+  "author": "Jorge Pauvels <jcvels@uvcoding.com.ar>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jcvels/adventjs-2022/issues"
+  },
+  "homepage": "https://github.com/jcvels/adventjs-2022#readme",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
